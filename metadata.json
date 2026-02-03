@@ -1,0 +1,8 @@
+{
+  "name": "RentAudit",
+  "description": "Empowers tenants to document property conditions with unalterable, timestamped evidence and GPS coordinates to solve security deposit disputes.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
